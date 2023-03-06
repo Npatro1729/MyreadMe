@@ -1,6 +1,19 @@
-# MyreadMe
-## heading 2
+# MyfirstDocumenattion
 
-#### heeading 4
+## problemsSolved
 
-###### heading 6
+### Leetcode
+Language - C++
+
+#### Topics
+
+* arrays
+  * [2SUM](https://leetcode.com/problems/two-sum/)
+* strings
+* binary search
+* recurssion
+* stacks
+* queues
+
+
+
